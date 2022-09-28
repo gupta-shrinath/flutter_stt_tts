@@ -49,7 +49,7 @@
 	<true/>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>The app offer speech to text </string>
-	key>NSMicrophoneUsageDescription</key>
+	<key>NSMicrophoneUsageDescription</key>
     <string>The app offer speech to text</string>
 </dict>
 </plist>
